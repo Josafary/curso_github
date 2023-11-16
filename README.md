@@ -10,3 +10,8 @@ Entendendo o que é git, aprendendo sobre repositórios e trabalhando com branch
 #### Título <h4>
 ##### Título <h5>
 ###### Título <h6>
+
+
+Para usar **negrito usa-se duplo asterisco** e para usar _itálico usa-se underline_.
+
+_Pode-se **também** usar as duas **formatações** de forma **combinada**._

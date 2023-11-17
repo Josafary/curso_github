@@ -60,3 +60,8 @@ import lightkurve as lk
 tic_id = input('Insira o tic_id do alvo')
 print(tic_id)
 ``````
+
+## Criando Checklist
+- [ ] Login com facebook
+- [x] Login com Google
+- [ ] Criar uma conta.

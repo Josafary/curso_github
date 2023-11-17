@@ -65,3 +65,12 @@ print(tic_id)
 - [ ] Login com facebook
 - [x] Login com Google
 - [ ] Criar uma conta.
+
+
+## Criando tabelas
+Variável | Descrição
+-------- | ---------
+Teff | Temperatura efetiva em K
+logg | Gravidade superficial em log(m.s^-2)
+Mass | Massa em M_sun
+Radius | Raio em R_sun

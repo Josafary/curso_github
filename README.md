@@ -34,6 +34,8 @@ _Pode-se **também** usar as duas **formatações** de forma **combinada**._
 
 ## Listas ordenadas:
 1. Começando com o Git.
+        1. O que é Git?
+        2. Instalando o git.
 2. Aprendendo sobre branches.
 3. Git avançado.
 4. Usando Github de forma profissional.

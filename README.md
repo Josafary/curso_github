@@ -15,3 +15,13 @@ Entendendo o que é git, aprendendo sobre repositórios e trabalhando com branch
 Para usar **negrito usa-se duplo asterisco** e para usar _itálico usa-se underline_.
 
 _Pode-se **também** usar as duas **formatações** de forma **combinada**._
+
+## Adicionando imagens
+![Logo do Git](https://sergioprado.org/wp-content/uploads/2018/03/git-logo2-768x362.jpeg)
+
+## Adicionando links
+[Instagram](https://www.instagram.com/jmangueboy/)
+
+[Youtube](https://www.youtube.com)
+
+[Github](https://github.com/Josafary)

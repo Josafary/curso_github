@@ -39,3 +39,9 @@ _Pode-se **também** usar as duas **formatações** de forma **combinada**._
 2. Aprendendo sobre branches.
 3. Git avançado.
 4. Usando Github de forma profissional.
+
+
+## Blockquotes
+> Este é um blockquote, usado para destacar uma área.
+>
+> Segunda linha destacada.

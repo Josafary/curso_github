@@ -20,8 +20,20 @@ _Pode-se **também** usar as duas **formatações** de forma **combinada**._
 ![Logo do Git](https://sergioprado.org/wp-content/uploads/2018/03/git-logo2-768x362.jpeg)
 
 ## Adicionando links
-[Instagram](https://www.instagram.com/jmangueboy/)
-
 [Youtube](https://www.youtube.com)
 
-[Github](https://github.com/Josafary)
+[**Github**](https://github.com/Josafary)
+
+
+## Listas não ordenadas
+### Módulos:
+* Começando com o Git.
+* Aprendendo sobre branches.
+* Git avançado.
+* Usando Github de forma profissional.
+
+## Listas ordenadas:
+1. Começando com o Git.
+2. Aprendendo sobre branches.
+3. Git avançado.
+4. Usando Github de forma profissional.

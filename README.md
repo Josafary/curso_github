@@ -74,3 +74,15 @@ Teff | Temperatura efetiva em K
 logg | Gravidade superficial em log(m.s^-2)
 Mass | Massa em M_sun
 Radius | Raio em R_sun
+
+
+## Criando links internos
+[Bem vindo](#bem-vindo-ao-curso-gitgithub) | 
+[Headings](#título-) | 
+[Imagens](#adicionando-imagens) | 
+[Links](#adicionando-links) |
+[Listas](#listas-não-ordenadas) |
+[Blockquotes](#blockquotes) |
+[Códigos](#adicionando-trechos-de-código-e-color-highlight)
+[Checklist](#criando-checklist) |
+[Tabelas](#criando-tabelas)

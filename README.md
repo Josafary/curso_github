@@ -45,3 +45,18 @@ _Pode-se **também** usar as duas **formatações** de forma **combinada**._
 > Este é um blockquote, usado para destacar uma área.
 >
 > Segunda linha destacada.
+
+
+## Adicionando trechos de código e color highlight
+```import lightkurve as lk```
+
+``````
+import lightkurve as lk
+``````
+
+``````py
+import lightkurve as lk
+
+tic_id = input('Insira o tic_id do alvo')
+print(tic_id)
+``````
